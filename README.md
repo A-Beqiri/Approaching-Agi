@@ -1,3 +1,5 @@
+🇬🇧 English version available here: [README_EN.md](README_EN.md)
+
 # Approaching AGI  
 ## A personal reflection inspired by Qubic, Neuraxon and AIGARTH
 
